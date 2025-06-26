@@ -1,2 +1,2 @@
-# r-JHLNDP_Models_and_Instances
+# r-JHLNDP Mathematical Models and Instances
 MILP Models and Benchmark Instances for r-JHLPNDP
